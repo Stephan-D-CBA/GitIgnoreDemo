@@ -13,7 +13,10 @@ public class Main {
         System.out.println("Hello !");
         System.out.println("Hello jhkdc!");
         System.out.println("Hello world!");
+
         System.out.println("nice jhkdc!");
-        
+
+        System.out.println("Hellojhkdc!");
+
     }
 }
